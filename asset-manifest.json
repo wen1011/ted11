@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ted11/static/css/main.073c9b0a.css",
+    "main.js": "/ted11/static/js/main.a7ac93b9.js",
+    "static/js/787.4d8bbe03.chunk.js": "/ted11/static/js/787.4d8bbe03.chunk.js",
+    "static/media/logo.svg": "/ted11/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ted11/index.html",
+    "main.073c9b0a.css.map": "/ted11/static/css/main.073c9b0a.css.map",
+    "main.a7ac93b9.js.map": "/ted11/static/js/main.a7ac93b9.js.map",
+    "787.4d8bbe03.chunk.js.map": "/ted11/static/js/787.4d8bbe03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a7ac93b9.js"
+  ]
+}
