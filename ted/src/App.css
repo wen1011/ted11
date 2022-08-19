@@ -1,3 +1,10 @@
+@font-face {
+  font-family:ZpixReviewLocal;
+  src: url(./assets/zpix.woff2);
+}
+body {
+  font-family: ZpixReviewLocal, sans-serif !important;
+}
 .App {
   text-align: center;
 }
