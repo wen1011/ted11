@@ -1,10 +1,11 @@
-@font-face {
+/* @font-face {
   font-family:ZpixReviewLocal;
   src: url(./assets/zpix.woff2);
 }
 body {
   font-family: ZpixReviewLocal, sans-serif !important;
-}
+} */
+@import '~antd/dist/antd.css';
 .App {
   text-align: center;
 }
